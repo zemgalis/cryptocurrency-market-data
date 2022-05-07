@@ -1,0 +1,26 @@
+{
+  "name": "cryptocurrency-market-data",
+  "version": "1.0.0",
+  "description": "cryptocurrency market data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zemgalis/cryptocurrency-market-data.git"
+  },
+  "keywords": ["cryptocurrency", "market data"],
+  "author": "Maris Zemgalis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zemgalis/cryptocurrency-market-data/issues"
+  },
+  "homepage": "https://github.com/zemgalis/cryptocurrency-market-data#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "iex-cloud": "^2.2.0",
+    "node-fetch": "^3.2.4",
+    "treblle": "^1.2.0"
+  }
+}
